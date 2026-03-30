@@ -40,4 +40,4 @@ grep -q '\[complete-example.md\](\./examples/complete-example.md)' "${skill_root
   exit 1
 }
 
-printf 'aIizer 技能結構驗證通過：%s\n' "${skill_root}"
+printf 'aiizer 技能結構驗證通過：%s\n' "${skill_root}"

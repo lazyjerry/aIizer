@@ -33,7 +33,7 @@
 建議方式（直接 clone 到 Claude Code 的 skills 目錄）：
 ```bash
 mkdir -p ~/.claude/skills
-git clone https://github.com/lazyjerry/aIizer ~/.claude/skills/aIizer
+git clone https://github.com/lazyjerry/aiizer ~/.claude/skills/aiizer
 ```
 
 從本地儲存庫重新安裝或更新：
@@ -48,7 +48,7 @@ git clone https://github.com/lazyjerry/aIizer ~/.claude/skills/aIizer
 
 ## 如何「執行」它（Claude Code）
 呼叫這個 skill：
-- `/aIizer`，然後貼上文字
+- `/aiizer`，然後貼上文字
 
 ## 安全地進行變更
 ### 版本管理（保持同步）
